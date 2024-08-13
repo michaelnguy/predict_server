@@ -8,7 +8,6 @@ contractions
 Pillow
 requests
 torch
-faiss
 transformers
 scikit-learn
 scipy
