@@ -1,10 +1,15 @@
 Flask
 Gunicorn
 pandas
+numpy
 nltk
 emoji
 contractions
 Pillow
 requests
 torch
+faiss
 transformers
+scikit-learn
+scipy
+matplotlib
