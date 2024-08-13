@@ -2,7 +2,7 @@ Flask
 Gunicorn
 faiss-cpu==1.7.4
 pandas
-numpy
+numpy==1.26.4
 nltk
 emoji
 contractions
@@ -11,6 +11,6 @@ requests
 torch
 torchvision
 transformers
-scikit-learn
+scikit-learn==1.3.2
 scipy
 matplotlib
