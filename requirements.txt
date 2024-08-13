@@ -1,8 +1,6 @@
 Flask
 Gunicorn
 pandas
-pickle
-re
 nltk
 emoji
 contractions
@@ -11,6 +9,4 @@ PIL
 collections
 requests
 torch
-sys
-os
 transformers
