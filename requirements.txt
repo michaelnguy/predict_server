@@ -4,7 +4,6 @@ pandas
 nltk
 emoji
 contractions
-io
 PIL
 collections
 requests
