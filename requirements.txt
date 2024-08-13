@@ -1,5 +1,6 @@
 Flask
 Gunicorn
+faiss-cpu==1.7.4
 pandas
 numpy
 nltk
@@ -8,6 +9,7 @@ contractions
 Pillow
 requests
 torch
+torchvision
 transformers
 scikit-learn
 scipy
