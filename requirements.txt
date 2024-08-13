@@ -5,7 +5,6 @@ nltk
 emoji
 contractions
 Pillow
-collections
 requests
 torch
 transformers
