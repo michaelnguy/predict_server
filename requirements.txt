@@ -1,0 +1,16 @@
+Flask
+Gunicorn
+pandas
+pickle
+re
+nltk
+emoji
+contractions
+io
+PIL
+collections
+requests
+torch
+sys
+os
+transformers
